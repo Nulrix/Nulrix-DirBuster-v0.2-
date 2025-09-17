@@ -112,7 +112,7 @@ def request_once(parsed, path, timeout: float, follow: bool, insecure: bool, wan
             status = resp.status
             length = resp.getheader("Content-Length")
             location = resp.getheader("Location")
-            fp = None
+            fp = None 
 
             # Fallback or fingerprinting via small GET
             need_get = (status >= 400 or length is None or want_fingerprint)
