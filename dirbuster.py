@@ -194,7 +194,7 @@ def build_paths(words: List[str], exts: List[str]) -> List[str]:
             paths.add("/" + wq + "." + ext)
     return sorted(paths)
 
-def parse_codes(spec: Optional[str]) -> Optional[set]:
+def parse_codes(spec: Optional[str]) -> Optional[set]: 
     if not spec:
         return None
     out = set()
