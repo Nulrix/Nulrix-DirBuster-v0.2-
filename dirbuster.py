@@ -1,7 +1,7 @@
 #!/usr/bin/env python3    
 """
 Nulrix DirBuster v0.2 (Gobuster-lite)
-Lightweight directory & file brute-forcer for ethical web recon.
+Lightweight directory & file brute-forcer for ethical web recon. 
 
 New in v0.2:
 - --insecure : ignore TLS verification
