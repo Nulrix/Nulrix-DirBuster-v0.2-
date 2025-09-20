@@ -1,5 +1,5 @@
 #!/usr/bin/env python3    
-"""
+"""  
 Nulrix DirBuster v0.2 (Gobuster-lite)
 Lightweight directory & file brute-forcer for ethical web recon. 
 
