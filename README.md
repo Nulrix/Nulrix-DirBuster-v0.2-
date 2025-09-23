@@ -1,5 +1,5 @@
 # Nulrix DirBuster (v0.2)
-
+  
 Lightweight **directory & file brute-forcer** (Gobuster-lite) built with Python stdlib only.  
 Perfect for **ethical web recon**, **CTFs**, and learning.
 
