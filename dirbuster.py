@@ -5,7 +5,7 @@ Lightweight directory & file brute-forcer for ethical web recon.
 
 New in v0.2:
 - --insecure : ignore TLS verification
-- --rate     : global requests-per-second rate limit
+- --rate     : global requests-per-second rate limit  
 - --fingerprint / --sample-bytes : content hashing for better wildcard detection
 - --min-bytes / --max-bytes : response size filters
 - --retries  : transient error retries
