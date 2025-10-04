@@ -12,7 +12,7 @@ New in v0.2:
 
 Author: Nulrix
 License: MIT
-"""
+""" 
 from __future__ import annotations
 import argparse
 import concurrent.futures as cf
